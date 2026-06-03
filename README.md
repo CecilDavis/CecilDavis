@@ -1,14 +1,10 @@
 ## Cecil Davis
 
-Senior full-stack engineer, backend-leaning.
+Senior software engineer.
 
-I gravitate to the messy half of the work: the migration nobody wants to own, the perf problem that defies the obvious fix, the API contract that has to survive five years of product change.
-
-### Now
-Between roles and talking to teams.
+I like solving hard problems, building reliable systems, and making things simpler than I found them. Most of my career has been spent in the backend, but I've always enjoyed working across the stack when needed.
 
 ### Outside the editor
-Furniture, old trucks, chess.
+Woodworking, music, chess, and building things.
 
-cwdj83@gmail.com
 /in/cecil-w-davis
