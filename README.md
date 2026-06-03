@@ -7,4 +7,4 @@ I like solving hard problems, building reliable systems, and making things simpl
 ### Outside the editor
 Woodworking, music, chess, and building things.
 
-/in/cecil-w-davis
+[LinkedIn](https://www.linkedin.com/in/cecil-w-davis/)
